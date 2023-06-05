@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:music/screens/home_page.dart';
 import 'package:music/screens/musicplay_page.dart';
+import 'package:music/screens/splash.dart';
 
 void main() {
   runApp(const MyApp());
@@ -9,17 +9,15 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-     return MaterialApp(
-       theme: ThemeData(
-         primarySwatch: Colors.green,
-       ),
-       routes: {
-     "/": (context) => HomePage() ,
-     "musicPlayPage": (context) => MusicPlayPage() ,
-     }
-     );
+    return MaterialApp(
+        debugShowCheckedModeBanner: false,
+        theme: ThemeData(
+          primarySwatch: Colors.green,
+        ),
+        routes: {
+          "/": (context) => SplashScreen(),
+        });
   }
 }
