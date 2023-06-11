@@ -17,6 +17,10 @@ class _PoemScreenState extends State<PoemScreen> {
     "O\‘zbekman",
     "Sen qaydan bilasan...",
     "Dunyo",
+    "Chidaysan bolam",
+    "Do'stlar va Raqiblar",
+    "Ayrilma",
+    "Ko\'zgu parchalari",
     "Savob",
   ];
 
@@ -27,16 +31,24 @@ class _PoemScreenState extends State<PoemScreen> {
     "Yangi bir asrning ostonasi bu,\nYetishdim umrimning qutlug\ʻ yoshiga.\nTilimda shukrona, dilimda g\ʻulu,\nTarix sarkotibin keldim qoshiga:\n—Mana, men - O\ʻzbekman, qo\ʻlimda tug\‘im\nVa barcha a\’molim bitilgan kitob.\nShuning ichidadir borim va yo\ʻg\ʻim,\nShuning ichidadir men uchun oftob.\n\nO\ʻzbekman, inshoolloh, iymonim butun\nTilim qisiq emas bashariyatdan.\nKimgadir tengdirman, kimdandir ustun\nZuvalam qorilgan samimiyatdan.\n\nO\ʻzbekman, gohida iqbolim kulib,\nGohida o\ʻzimdan chiqqan ofatim.\nDunyoni olsam-da jahongir bo\ʻlib,\nGo\ʻdak yig\ʻisiga yo\ʻqdir toqatim.\n\nO\ʻzbekman, qanchalik jafo chekmayin,\nO\ʻzimga haq bo\ʻldim, o\ʻzimga haqman.\nYashadim yovlarga bo\ʻyin egmayin,\nBu kun o\ʻz erkiga erishgan xalqman.\n\nIstiqlol, ketma yurt peshonasidan,\nTole, tark etmagin bizni ilohim.\nMana, yangi asr ostonasidan\nO\ʻtdim. Bismillohir rahmonir rohim.",
     "Sen qaydan bilasan, balki yulduzlar\nMenga sirlarini so\'ylayotgandir.\n\nSen qaydan bilasan, balki bu ko\'zlar\nUnsiz bir qo\'shiqni kuylayotgandir.\n\nSen qaydan bilasan, balki keng olam\nShu mo\'jaz qalbimga bo\'ylayotgandir.\n\nSen qaydan bilasan, balki meni ham\nKimdir qaydadir jim o\'ylayotgandir...",
     "Bir kimsa umrining so\ʻngiga qadar,\nYig\ʻdi mol-u dunyo, yig\ʻdi siym-u zar.\n\nUni qiziqtirdi na do\ʻstning holi,\nVa na qo\ʻshnisining o\ʻksik ahvoli.\n\nU chindan mol-mulkning jilovin tutdi,\nFaqat nafs ortidan ot surib o\ʻtdi.\n\nBir kuni ba hukmi taqdiri azal,\nShamshirin ko\ʻtarib keldi-ku ajal.\n\nEndi na siym-u zar qutqara olur,\nNa billur, na gavhar qutqara olur.\n\nRozi yo norizo - farqi yo\ʻq mutloq,\nBunday choq chorasiz hatto do\ʻst-o\ʻrtoq.\n\nBeshafqat ajalga berar ekan tan,\nU dedi: «Shu ekan, dunyo shu ekan».\n\nMarhumga marhumlik ko\ʻrilgay loyiq,\nUni qabristonga eltdi xaloyiq.\n\nUyum tuproq bo\ʻldi quvonchi-g\ʻami,\nKimdir boqib dedi: «Shunga shunchami»...",
+    "Jismimni ko\ʼtarib turibdi tuproq,\nYerning ustidaman, yo\ʼq zarra nolam.\nO\ʼzi chorlar bir kun bag\ʼriga, biroq\nMensiz qolganingda chidaysan, bolam.\n\nHay dunyo, o\ʼzingni bir pulga sotding,\nKalava topding-u uchin yo\ʼqotding.\nMen kabi oxiri g\ʼaflatda qotding,\nMensiz qolganingda chidaysan, bolam.\n\nInson ezgulikdan topgay farog\ʼat,\nNima zarur unga zulmu qabohat.\nKimdir urishtirib, qilgaydir rohat,\nMensiz qolganingda chidaysan, bolam.\n\nYerni ham, ko\ʼkni ham ayladim tavof,\nLekin hech biridan chiqmadi javob.\nBo\ʼg\ʼzimda «Nega?» deb qotdi bir xitob,\nMensiz qolganingda chidaysan, bolam.\n\nDunyoga boqmadim men aslo yovdek,\nGoho to\ʼssa hamki yo\ʼlimni g\ʼovdek.\nHar holda gaplashdik ikki soqovdek,\nMensiz qolganingda chidaysan, bolam.",
+    "Yoshlik yillarimni eslayman sekin,\nGohida tinibman, gohida qaynab.\nTurfa satrlarni bitibman, lekin\nBir so\‘z ham yozmabman qalamni qiynab.\n\nO\‘rni kelganida kechdim daryodan,\nBitta o\‘zim qoldim girdobda goho.\nKuch oldim do\‘stlarim bergan hirmondan,\nTortdi oyog\‘imdan raqiblar ammo.\n\nAgar tog\‘ atalsa u shonli ravoq,\nOltin zinasiga qo\‘ydim bir kun bosh.\nDo\‘stlarim qutlovga qo\‘l cho\‘zdi, biroq\nRaqiblar tepadan otib turdi tosh.\n\nRavon yo\‘l yo\‘q ekan, har yon so\‘qmoqdir,\nYo\‘lbars ham yurmagan chigal bu o\‘rmon.\nDo\‘stlar-ku yulduzdek senga mayoqdir,\nRaqiblar bildirmay qo\‘yarlar qopqon.\n\nBu yorug\‘ dunyoda yo\‘l yurib albat,\nOxiri to\‘xtaysan, paymonang to\‘lib.\nO\‘sha kun do\‘stlarga bermasdan navbat,\nRaqiblar so\‘z aytar birinchi bo\‘lib.\n\nInsonga ko\‘rgilik azaldan o\‘tgan,\nDoimo vijdonga keltirganlar shak.\nXudoyim urganu payg\‘ambar turtgan\nRaqibning ustozi — Iblisdir beshak.",
+    "Bahra ol hayotning ne\’matlaridan,\nYashab yur, olamni his qilib, ko\’rib.\nVa lekin, payt kelib, buning baridan\nAyrilib qolmagin tiriklay turib.\n\nTanish-bilishlar-ku bordir tumonat,\nKim ham sadoqatga bergay kafolat.\nHatto qasam ichgan do\’st ham omonat,\nAyrilib qolmagin tiriklay turib.\n\nQaydadir omading yulduzi imlar,\nParda bo\’ladilar, lekin har kimlar.\nBir kun yodga tushar o\’sha g\’animlar,\nAyrilib qolmagin tiriklay turib.\n\nHar olgan nafasing o\’zi ibodat,\nQalbingda yashaydi pinhon muhabbat.\nU – ilhom, u– hikmat, u – kuch, u – qudrat,\nAyrilib qolmagin tiriklay turib.\n\nDunyoda topganing Vatandir tanho,\nSenga xalqing o\’zi suyanch avvalo.\nXoking shu tuproqqa bo\’lg\’usidir jo,\nAyrilib qolmagin tiriklay turib.",
+    "Ko\’zgu parchalari yo\’lakda yotar,\nUnsiz sharpalari ruhimga botar.\n\nYuzlarim aks etar bir parchasida,\nKo\’zlarim aks etar bir parchasida.\n\nBirida osmon aks etsa agar,\nBirida qushlarning raqsi jilvagar.\n\nOlamning yaxlit bir suratin ammo,\nNamoyon etolmas bu ko\’zgu aslo.\n\nXilqat uning uchun but bo\’lmas mangu,\nAxir, parcha-parcha singan ko\’zgu bu.\n\nMeni ma\’zur tutgin, muharam inson,\nSurating chizolmay turibman hayron.\n\nBir kun fazilating olsam qalamga,\nBir kun qabixliging yoygum olamga.\n\nBir kun ko\’z yoshlaring qog\’ozimdadir,\nBir kun zaharxandang ovozimdadir.\n\nBir kun o\’tmishingdan faryod solurman,\nBir kun iqbolingdan o\’yga tolurman.\n\nSening bo\’y-bastingni ko\’rsatmoq uchun,\nKo\’zgu kerak ahir yaxlit va butun.\n\nShoir yuragi-chi, olamda yakkash\nO\’sha chi-chil singan ko\’zguga o\’xshash.",
     "Avji saratonda hansirab, yonib,\nQovrilib olovli yo\'llar taftida,\nMuzdayin buloqdan suv ichgach qonib,\nHordiq olganmisan chinor tagida? \n\nRuhingni safoyu taningda mador,\nUmidbaxsh qo\'shiqlar kuylaganmisan?\nO\'sha payt, o\'sha on hech qursa bir bor\nChinorni kim ekkan – o\'ylaganmisan?\n\nRo\'baro\' kelding sen toshqin daryoga,\nQolding sohil uzra chorasiz, giryon,\nLekin yo\'liqqanday ajib ro\'yoga,\nQarshingda bir ko\'prik bo\'ldi namoyon.\n\nBamisli uzala tushgan xor vujud,\nKo\'targay u turfa insonlar korin.\nO\'tding sen daryodan salomat va but,\nLekin o\'yladingmi ko\'prik me\'morin?\n\nO\'rmonlar bag\'rida sayr etgan sayyoh,\nChangalzor qo\'ynida sargardon ovchi,\nMo\'jaz boshpanani ko\'rdingmi nogoh,\nUni qoldirmishdir qay bir yo\'lovchi.\n\nQoldirmish u senga qaro kun uchun,\nBir chimdim tuz bilan bir juft chaqmoq tosh.\nO\'ylab ko\'rganmisan, bu himmat nechun,\nO\'ylab ko\'rganmisan, kimdir u g\'amdosh?\n\nHa, inson umrining kechmishi ajab,\nGoh, to\'ng\'ar, goho u yashnar qulf urib…\nO, balki qaysi bir fidoyi sabab,\nYuribsan sen hayot nash\'asin surib.\n\nAyt, axir o\'zing ham to borsan sobit,\nKimsaga nasiba uzatganmisan?\nKo\'changdan lapanglab o\'tganda tobut,\nSen uni to\'rt qadam kuzatganmisan?\n\nChorasiz bir inson uchragan damda,\nUnsiz so\'rog\'iga qildingmi javob?\nAyt-chi, bilarmisan, yorug\' olamda\nBularning barchasi atalgay savob.\n\nYo\'q, yo\'q, o\'zga erur bid\'at va karam,\nHimmatu saxovat tiriklarga xos.\nBobolar beta\'ma qurgan dunyo ham\nAsli savob uchun qolgan bir meros\n\nKimdir tuzar uni, kimdir buzadi,\nKImdir borini ham qiladi barbod.\nKimdir ta\'ma bilan dunyo kezadi,\nKimdir o\'ksuk dilni† etadi obod.\n\nSavob deb ingraydi dunyomiz behol,\nZordir u najotbaxsh hislar sehriga.\nJanglarda toliqqan majruh zot misol,\nSuyanib yashar u inson mehriga.\n\nTo hayot ekanmiz savobga zormiz,\nYilt etgan shu\'ladan dillar fayziyob.\nGoh ga\'mgin, goh esa umidga yormiz,\nYo\'qolmasa deymiz dunyoda savob.\n\nAxir uning bilan gullagay ochun,\nAxir uning bilan umrlar shoyon.\nFaqat savob borki, jahon bus-butun,\nFaqat savob borki, azizdir Inson!",
   ];
   List<String> poemOfMusics = [
-    "ketganqiz.mp3",
-    "ketganqiz.mp3",
-    "ketganqiz.mp3",
-    "ketganqiz.mp3",
-    "ketganqiz.mp3",
-    "ketganqiz.mp3",
-    "ketganqiz.mp3",
+    "ozbekiston.mp3",
+    "mns.mp3",
+    "k.mp3",
+    "ozbekman.mp3",
+    "sqb.mp3",
+    "dunyo.mp3",
+    "chb.mp3",
+    "dvr.mp3",
+    "ayrilma.mp3",
+    "kp.mp3",
+    "savob.mp3",
   ];
 
   @override

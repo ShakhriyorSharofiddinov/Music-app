@@ -90,7 +90,7 @@ class _HomePageState extends State<HomePage> {
                     color: Colors.white,
                     onPressed: () {
                       Navigator.push(context,
-                          MaterialPageRoute(builder: (_) => MusicPlayPage( poem, "ketganqiz.mp3", "O\’zbekiston respublikasi davlat madhiyasi",
+                          MaterialPageRoute(builder: (_) => MusicPlayPage( poem, "madhiya.mp3", "O\’zbekiston respublikasi davlat madhiyasi",
                           )));
                     },
                     child: Text(

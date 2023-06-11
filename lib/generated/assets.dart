@@ -2,9 +2,10 @@
 class Assets {
   Assets._();
 
+  static const String assetsAbdullaOripov = 'assets/abdulla_oripov.mp3';
   static const String assetsImagesAbdulla = 'assets/images/abdulla.jpg';
   static const String assetsKetganqiz = 'assets/ketganqiz.mp3';
-  static const String assetsMusic = 'assets/music.mp3';
+  static const String assetsSqb = 'assets/sqb.mp3';
   static const String imagesAbdulla = 'assets/images/Abdulla.jpg';
   static const String imagesAbdulla2 = 'assets/images/abdulla2.jpg';
   static const String imagesBg = 'assets/images/bg.jpg';
