@@ -44,7 +44,7 @@ class _SplashScreenState extends State<SplashScreen> {
                     ),
                   ),
                   SizedBox(height: 20,),
-                  Text(
+                  const Text(
                     "O\'zbekiston Qahramoni Abdulla Oripov",
                     style: TextStyle(
                         fontSize: 28,

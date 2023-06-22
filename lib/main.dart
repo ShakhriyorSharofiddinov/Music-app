@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:music/screens/musicplay_page.dart';
 import 'package:music/screens/splash.dart';
 
 void main() {

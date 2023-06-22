@@ -41,7 +41,7 @@ class _LifeScreenState extends State<LifeScreen> {
 
   Future setAudio() async {
     audioPlayer.setReleaseMode(ReleaseMode.loop);
-    final url = await AudioCache(prefix: 'assets/').load("abdulla_oripov.mp3");
+    final url = await AudioCache(prefix: 'assets/').load("ab.mp3");
     audioPlayer.setSourceUrl(url.path);
   }
 
